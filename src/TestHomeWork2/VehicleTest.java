@@ -44,6 +44,7 @@ public class VehicleTest {
     // транспорта) машина останавливается (speed = 0).
     @Test
     public  void testSpeedCarPark(){
+        car.testDrive();
         car.park();
         assertEquals(0,car.getSpeed());
     }
@@ -51,6 +52,7 @@ public class VehicleTest {
     // транспорта) машина останавливается (speed = 0).
     @Test
     public  void testSpeedMotorcyclePark(){
+        motorcycle.testDrive();
         motorcycle.park();
         assertEquals(0,motorcycle.getSpeed());
     }

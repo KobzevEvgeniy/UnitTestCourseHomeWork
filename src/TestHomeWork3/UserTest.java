@@ -1,5 +1,5 @@
-import org.example.HomeWork3.User;
-import org.example.HomeWork3.UserRepository;
+import org.example.homeWork3.User;
+import org.example.homeWork3.UserRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

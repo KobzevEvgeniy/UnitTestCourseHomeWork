@@ -1,4 +1,4 @@
-import org.example.HomeWork3.HomeWork3;
+import org.example.homeWork3.HomeWork3;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
